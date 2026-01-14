@@ -1,6 +1,6 @@
 # Dream Bot: 20-Year Subconscious Archive Parser
 
-A Python-based ETL pipeline that transforms two decades of dream journals (2004–2023) into a structured, machine-readable dataset for AI/ML experimentation.
+A Python-based ETL pipeline that transforms over two decades of dream journals (2004–2025) into a structured, machine-readable dataset for AI/ML experimentation.
 
 ## Project Overview
 
