@@ -4,7 +4,7 @@ A Python-based ETL pipeline that transforms over two decades of dream journals (
 
 ## Project Overview
 
-This project was built to refresh my Python knowledge while preparing a personal dataset for Generative AI applications. It handles the extraction, cleaning, and enrichment of longitudinal text data stored in legacy .docx formats."
+This project was built to refresh my Python knowledge while preparing a personal dataset for Generative AI applications. It handles the extraction, cleaning, and enrichment of longitudinal text data stored in legacy .docx formats.
 
 ## Features
 
